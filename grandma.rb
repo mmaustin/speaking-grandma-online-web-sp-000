@@ -15,7 +15,7 @@ grandma = "what is going in here?"
 def speak_to_grandma(grandma)
   if grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
-  elsif grandma == phrase.upcase
+  elsif grandma == grandma.upcase
     puts "NO, NOT SINCE 1938"
   else
     puts "HUH?1 SPEAK UP, SONNY!"
