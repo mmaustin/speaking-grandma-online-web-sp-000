@@ -11,7 +11,7 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-grandma = "what is going in here?"
+grandma = "I LOVE YOU GRANDMA"
 def speak_to_grandma(grandma)
   if grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
